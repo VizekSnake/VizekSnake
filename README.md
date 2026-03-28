@@ -49,16 +49,6 @@ What you see here is a **small public slice** of what I actually build.
 - tools I build for myself in restricted small amount of free time  
 - early-stage concepts  
 
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=VizekSnake&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VizekSnake&layout=compact&theme=tokyonight)
-
----
-
 ## Engineering mindset
 
 - Think in systems, not features  
