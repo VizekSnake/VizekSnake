@@ -21,7 +21,7 @@ What you see here is a **small public slice** of what I actually build.
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
@@ -36,7 +36,7 @@ What you see here is a **small public slice** of what I actually build.
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
 
-### ⚙️ DevOps / Tools
+### DevOps / Tools
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-black?logo=githubactions)
 ![Monitoring](https://img.shields.io/badge/Monitoring-Prometheus-orange?logo=prometheus)
@@ -58,7 +58,7 @@ What you see here is a **small public slice** of what I actually build.
 
 ---
 
-## 📉 Reality check
+## Reality check
 
 ```txt
 public_projects  = limited
