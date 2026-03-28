@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm Karol
 
-<!--
-**VizekSnake/VizekSnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer | System Thinker | Product-Oriented Engineer  
 
-Here are some ideas to get you started:
+![Currently building](https://img.shields.io/badge/currently%20building-own%20projects-blueviolet)
+![Open to work](https://img.shields.io/badge/status-open%20to%20opportunities-success)
+![Focus](https://img.shields.io/badge/focus-backend%20%2B%20architecture-informational)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+
+I build **scalable systems end-to-end** — from backend architecture to frontend UX.
+
+- Strong in backend: APIs, data modeling, system design
+- Product mindset — I don’t just code, I solve problems
+- Experience with async systems and real-world workflows
+- Most of my work is under NDA (private repositories)
+
+What you see here is a **small public slice** of what I actually build.
+
+---
+
+## ⚡ Tech Stack
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-async-green?logo=fastapi)
+![Django](https://img.shields.io/badge/Django-darkgreen?logo=django)
+
+### Frontend
+![React](https://img.shields.io/badge/React-TypeScript-blue?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue?logo=typescript)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+
+### ⚙️ DevOps / Tools
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-black?logo=githubactions)
+![Monitoring](https://img.shields.io/badge/Monitoring-Prometheus-orange?logo=prometheus)
+
+---
+
+## What you’ll find here
+
+- selected projects & experiments  
+- tools I build for myself in restricted small amount of free time  
+- early-stage concepts  
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=VizekSnake&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VizekSnake&layout=compact&theme=tokyonight)
+
+---
+
+## Engineering mindset
+
+- Think in systems, not features  
+- Optimize for maintainability  
+- Prefer clarity over cleverness  
+- Build things that scale  
+
+---
+
+## 📉 Reality check
+
+```txt
+public_projects  = limited
+real_experience  = much bigger
+nda_projects     = yes
