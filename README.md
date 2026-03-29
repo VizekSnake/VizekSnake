@@ -10,14 +10,8 @@ Fullstack Developer | System Thinker | Product-Oriented Engineer
 
 ## About me
 
-I build **scalable systems end-to-end**
-
-- Strong in backend
-- Product mindset
-- Experience with async systems and real-world workflows
-- Most of my work is under NDA (private repositories)
-
-What you see here is a **small public slice** of what I actually build.
+Mostly backend (and occasionally explaining to systems why they should work).
+Most of the interesting stuff lives behind NDAs.
 
 ---
 
