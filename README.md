@@ -12,8 +12,8 @@ Fullstack Developer | System Thinker | Product-Oriented Engineer
 
 I build **scalable systems end-to-end** — from backend architecture to frontend UX.
 
-- Strong in backend: APIs, data modeling, system design
-- Product mindset — I don’t just code, I solve problems
+- Strong in backend
+- Product mindset
 - Experience with async systems and real-world workflows
 - Most of my work is under NDA (private repositories)
 
