@@ -21,7 +21,7 @@ What you see here is a **small public slice** of what I actually build.
 
 ![GitHub](https://img.shields.io/badge/GitHub-active-black?style=flat-square&logo=github)
 ![Commits](https://img.shields.io/badge/Commits-active-black?style=flat-square)
-![Activity](https://img.shields.io/badge/Activity-ongoing-black?style=flat-square)
+![GitHub commits](https://img.shields.io/github/commit-activity/y/VizekSnake/VizekSnake?style=flat-square&logo=github)
 
 ---
 
