@@ -38,13 +38,6 @@ What you see here is a **small public slice** of what I actually build.
 - tools I build for myself in restricted small amount of free time  
 - early-stage concepts  
 
-## Engineering mindset
-
-- Think in systems, not features  
-- Optimize for maintainability  
-- Prefer clarity over cleverness  
-- Build things that scale  
-
 ---
 
 ## Reality check
