@@ -10,7 +10,7 @@ Fullstack Developer | System Thinker | Product-Oriented Engineer
 
 ## About me
 
-I build **scalable systems end-to-end** — from backend architecture to frontend UX.
+I build **scalable systems end-to-end**
 
 - Strong in backend
 - Product mindset
