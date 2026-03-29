@@ -19,10 +19,6 @@ I build **scalable systems end-to-end**
 
 What you see here is a **small public slice** of what I actually build.
 
-![GitHub](https://img.shields.io/badge/GitHub-active-black?style=flat-square&logo=github)
-![Commits](https://img.shields.io/badge/Commits-active-black?style=flat-square)
-![GitHub commits](https://img.shields.io/github/commit-activity/y/VizekSnake/VizekSnake?style=flat-square&logo=github)
-
 ---
 
 ## Tech Stack
