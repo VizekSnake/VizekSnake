@@ -8,7 +8,7 @@ Fullstack Developer | System Thinker | Product-Oriented Engineer
 
 ---
 
-## About me
+## What I do?
 
 Mostly backend (and occasionally explaining to systems why they should work).
 Most of the interesting stuff lives behind NDAs.
