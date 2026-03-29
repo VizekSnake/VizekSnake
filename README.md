@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karol
 
-Fullstack Developer | System Thinker | Product-Oriented Engineer  
+Fullstack Developer
 
 ![Currently building](https://img.shields.io/badge/currently%20building-own%20projects-blueviolet)
 ![Open to work](https://img.shields.io/badge/status-open%20to%20opportunities-success)
