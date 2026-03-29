@@ -23,23 +23,12 @@ What you see here is a **small public slice** of what I actually build.
 
 ## Tech Stack
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-async-green?logo=fastapi)
-![Django](https://img.shields.io/badge/Django-darkgreen?logo=django)
-
-### Frontend
-![React](https://img.shields.io/badge/React-TypeScript-blue?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue?logo=typescript)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
-
-### DevOps / Tools
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-black?logo=githubactions)
-![Monitoring](https://img.shields.io/badge/Monitoring-Prometheus-orange?logo=prometheus)
+| Backend | Frontend | DevOps / DB |
+|--------|---------|-------------|
+| ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) | ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) |
+| ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django) | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=github-actions) |
+|  |  | ![Prometheus](https://img.shields.io/badge/Prometheus-black?style=flat-square&logo=prometheus) |
 
 ---
 
